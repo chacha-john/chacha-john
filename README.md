@@ -11,7 +11,7 @@ I am a JavaScript developer based in Nairobi Kenya. I love solving problems with
 - 🌱 I’m currently a software development student at [Moringa School](https://www.moringaschool.co.ke)
 - 📝 I write about JavaScript and other concepts I'm learning on my [LinkedIn](https://www.linkedin.com/in/rikonnect) and [Twitter](https://twitter.com/rikonnect)
 - 💬 Ask me about anything JavaScript
-- 👯 Checkout my other github [Chacha John](https://github.com/chacha-john)
+- 👯 Stay tuned for bigger and better stuff
 - 📫 How to reach me: [Twitter](https://twitter.com/rikonnect)
 - ⚡ Fun fact: I have never tasted pizza in my entire life. And oh, I never watched Game of Thrones series.
 
