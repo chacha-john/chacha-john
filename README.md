@@ -17,12 +17,6 @@ I am a JavaScript developer based in Nairobi Kenya. I love solving problems with
 
 ## :trophy: My Github Stats
 
-<!-- [![Chacha's GitHub stats](https://github-readme-stats.vercel.app/api?username=chacha-john)](https://github.com/chacha-john/github-readme-stats) -->
-<a align="left" >
-  <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=chacha-john&count_private=true&show_icons=true&theme=cobalt">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=chacha-john&count_private=true&show_icons=true&theme=cobalt" />
-</a>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=chacha-john&count_private=true&show_icons=true&theme=cobalt">
   <img  align="left" src = "https://github-readme-streak-stats.herokuapp.com/?user=chacha-john&">
-</a>
 </a>
