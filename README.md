@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Chacha
 
-[Website](https://chacha-john.github.io/Portfolio-Pro-Max/) |
-[Twitter](https://twitter.com/rikonnect) |
-[Linkedin](https://www.linkedin.com/in/rikonnect)
+<a href="https://www.github.com/chacha-john"><img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894__340.png" width="40" /></a>
+<a href="https://chacha-john.github.io/Portfolio-Pro-Max/"><img src="https://github.com/chacha-john/Portfolio-Pro/blob/master/i/favicon.png?raw=true" width="40" /></a>
+<a href="https://https://www.twitter.com/rikonnect"><img src="https://cdn.pixabay.com/photo/2016/11/18/11/16/social-1834013__340.png" width="40" /></a>
 
 ---
 
@@ -15,7 +15,18 @@ I am a JavaScript developer based in Nairobi Kenya. I love solving problems with
 - 📫 How to reach me: [Twitter](https://twitter.com/rikonnect)
 - ⚡ Fun fact: I have never tasted pizza in my entire life. And oh, I never watched Game of Thrones series.
 
-## :trophy: My Github Stats
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+### :trophy: My Github Stats
 
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=chacha-john&count_private=true&show_icons=true&theme=cobalt">
   <img  align="left" src = "https://github-readme-streak-stats.herokuapp.com/?user=chacha-john&">
