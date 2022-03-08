@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Chacha
 
 [Website](https://chacha-john.github.io/Portfolio-Pro-Max/) |
-[Twitter](https://https://www.twitter.com/rikonnect) |
+[Twitter](https://www.twitter.com/rikonnect) |
 [Github](https://www.github.com/chacha-john)
 <!-- <a href="https://www.github.com/chacha-john"><img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894__340.png" width="40" /></a>
 <a href="https://chacha-john.github.io/Portfolio-Pro-Max/"><img src="https://github.com/chacha-john/Portfolio-Pro/blob/master/i/favicon.png?raw=true" width="40" /></a>
