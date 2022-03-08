@@ -20,7 +20,8 @@ I am a JavaScript developer based in Nairobi Kenya. I love solving problems with
 
 ### :trophy: My Github Stats
 
-[![My GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=chacha-john&)] (https://readme-stats-cfgj2cxdy.vercel.app/api?username=chacha-john&count_private=true&show_icons=true&theme=cobalt)
+![My GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=chacha-john&)
+<!-- (https://readme-stats-cfgj2cxdy.vercel.app/api?username=chacha-john&count_private=true&show_icons=true&theme=cobalt) -->
 
 ### Languages and Tools:
 
