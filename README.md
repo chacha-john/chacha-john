@@ -1,9 +1,12 @@
 ### Hi there 👋, I'm Chacha
 
-<a href="https://www.github.com/chacha-john"><img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894__340.png" width="40" /></a>
+[Website](https://chacha-john.github.io/Portfolio-Pro-Max/) |
+[Twitter](https://https://www.twitter.com/rikonnect) |
+[Github](https://www.github.com/chacha-john)
+<!-- <a href="https://www.github.com/chacha-john"><img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894__340.png" width="40" /></a>
 <a href="https://chacha-john.github.io/Portfolio-Pro-Max/"><img src="https://github.com/chacha-john/Portfolio-Pro/blob/master/i/favicon.png?raw=true" width="40" /></a>
 <a href="https://https://www.twitter.com/rikonnect"><img src="https://cdn.pixabay.com/photo/2016/11/18/11/16/social-1834013__340.png" width="40" /></a>
-
+ -->
 ---
 
 I am a JavaScript developer based in Nairobi Kenya. I love solving problems with code. I am always learning, reading, coding, thinking about learning, thinking about reading, or thinking about coding.
@@ -25,6 +28,7 @@ I am a JavaScript developer based in Nairobi Kenya. I love solving problems with
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
 
 ### :trophy: My Github Stats
 
