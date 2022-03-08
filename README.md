@@ -16,7 +16,7 @@ I am a JavaScript developer based in Nairobi Kenya. I love solving problems with
 - 💬 Ask me about anything JavaScript
 - 👯 Stay tuned for bigger and better stuff
 - 📫 How to reach me: [Twitter](https://twitter.com/rikonnect)
-- ⚡ Fun fact: I have never tasted pizza in my entire life. And oh, I never watched Game of Thrones series.
+- ⚡ Fun fact: Human beings were created by water to carry it upstream!
 
 ### :trophy: My Github Stats
 
