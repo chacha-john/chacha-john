@@ -20,9 +20,7 @@ I am a JavaScript developer based in Nairobi Kenya. I love solving problems with
 
 ### :trophy: My Github Stats
 
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=chacha-john&count_private=true&show_icons=true&theme=cobalt">
-  <img  align="left" src = "https://github-readme-streak-stats.herokuapp.com/?user=chacha-john&">
-</a>
+![My GitHub Stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=chacha-john&count_private=true&show_icons=true&theme=cobalt" "https://github-readme-streak-stats.herokuapp.com/?user=chacha-john&")
 
 ### Languages and Tools:
 
