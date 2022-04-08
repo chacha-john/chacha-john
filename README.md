@@ -3,18 +3,15 @@
 [Website](https://chacha-john.github.io/chacha/) |
 [Twitter](https://www.twitter.com/rikonnect) |
 [Github](https://www.github.com/chacha-john)
-<!-- <a href="https://www.github.com/chacha-john"><img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894__340.png" width="40" /></a>
-<a href="https://chacha-john.github.io/Portfolio-Pro-Max/"><img src="https://github.com/chacha-john/Portfolio-Pro/blob/master/i/favicon.png?raw=true" width="40" /></a>
-<a href="https://https://www.twitter.com/rikonnect"><img src="https://cdn.pixabay.com/photo/2016/11/18/11/16/social-1834013__340.png" width="40" /></a>
- -->
+
 ---
 
-I am a JavaScript developer based in Nairobi Kenya. I love solving problems with code. I am always learning, reading, coding, thinking about learning, thinking about reading, or thinking about coding.
+I am a front-end developer based in Nairobi, Kenya. I love solving problems with code. I am always learning, reading, and coding. I hope your code behaves on Monday like it did on Friday.
 
 - 🌱 I’m currently a software development student at [Moringa School](https://www.moringaschool.co.ke)
-- 📝 I write about JavaScript and other concepts I'm learning on my [LinkedIn](https://www.linkedin.com/in/rikonnect) and [Twitter](https://twitter.com/rikonnect)
-- 💬 Ask me about anything JavaScript
-- 👯 Stay tuned for bigger and better stuff
+- 📝 I write about JavaScript, Angular, and other concepts I'm learning on my [LinkedIn](https://www.linkedin.com/in/rikonnect) and [Twitter](https://twitter.com/rikonnect)
+- 💬 Ask me about anything JavaScript, Typescript, and Angular
+- 👯 r!ko - coming soon...
 - 📫 How to reach me: [Twitter](https://twitter.com/rikonnect)
 - ⚡ Fun fact: Human beings were created by water to carry it upstream!
 
