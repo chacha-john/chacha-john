@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Chacha
 
-[Website](https://chacha-john.github.io/chacha/) |
+[Website](https://www.rikonnect.co.ke) |
 [Twitter](https://www.twitter.com/rikonnect) |
 [Github](https://www.github.com/chacha-john)
 
