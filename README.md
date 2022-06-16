@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Chacha
 
 [Website](https://www.rikonnect.co.ke) |
-[Twitter](https://www.twitter.com/_chachaup) |
+[Twitter](https://www.twitter.com/chachaups) |
 [Github](https://www.github.com/chacha-john)
 
 ---
@@ -9,10 +9,10 @@
 I am a front-end developer based in Nairobi, Kenya. I love solving problems with code. I am always learning, reading, and coding. I hope your code behaves on Monday like it did on Friday.
 
 - 🌱 I’m currently a software development student at [Moringa School](https://www.moringaschool.co.ke)
-- 📝 I write about JavaScript, Angular, and other concepts I'm learning on my [LinkedIn](https://www.linkedin.com/in/chachaup) and [Twitter](https://twitter.com/_chachaup)
+- 📝 I write about JavaScript, Angular, Java, Android, and other concepts I'm learning on my [LinkedIn](https://www.linkedin.com/in/chachaup) and [Twitter](https://twitter.com/chachaups)
 - 💬 Ask me about anything JavaScript, Typescript, and Angular
 - 👯 r!ko - coming soon...
-- 📫 How to reach me: [Twitter](https://twitter.com/_chachaup)
+- 📫 How to reach me: [Twitter](https://twitter.com/chachaups)
 - ⚡ Fun fact: Human beings were created by water to carry it upstream!
 
 ### :trophy: My Github Stats
