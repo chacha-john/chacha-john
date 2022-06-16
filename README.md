@@ -6,7 +6,7 @@
 
 ---
 
-I am a front-end developer based in Nairobi, Kenya. I love solving problems with code. I am always learning, reading, and coding. I hope your code behaves on Monday like it did on Friday.
+I am an android developer based in Nairobi, Kenya. I love solving problems with code. I am always learning, reading, and coding. I hope your code behaves on Monday like it did on Friday.
 
 - 🌱 I’m currently a software development student at [Moringa School](https://www.moringaschool.co.ke)
 - 📝 I write about JavaScript, Angular, Java, Android, and other concepts I'm learning on my [LinkedIn](https://www.linkedin.com/in/chachaup) and [Twitter](https://twitter.com/chachaups)
