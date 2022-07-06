@@ -2,7 +2,8 @@
 
 [Website](https://www.rikonnect.co.ke) |
 [Twitter](https://www.twitter.com/chachaups) |
-[Github](https://www.github.com/chacha-john)
+[Github](https://www.github.com/chacha-john) |
+[Medium](https://chachaup.medium.com)
 
 ---
 
