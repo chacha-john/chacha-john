@@ -8,10 +8,10 @@
 
 I am an android developer based in Nairobi, Kenya. I love solving problems with code. I am always learning, reading, and coding. I hope your code behaves on Monday like it did on Friday.
 
-- 🌱 I’m currently a software development student at [Moringa School](https://www.moringaschool.co.ke)
-- 📝 I write about JavaScript, Angular, Java, Android, and other concepts I'm learning on my [LinkedIn](https://www.linkedin.com/in/chachaup) and [Twitter](https://twitter.com/chachaups)
-- 💬 Ask me about anything JavaScript, Typescript, and Angular
-- 👯 r!ko - coming soon...
+- 🌱 I’m currently looking for opportunities in software development. I am proficient in Java, Java Spring Boot framework, Android development, Angular and JavaScript.
+- 📝 I write about JavaScript, Angular, Java, Android, and other concepts I'm learning on my [LinkedIn](https://www.linkedin.com/in/chachaup), [Medium](https://chachaup.medium.com), and [Twitter](https://twitter.com/chachaups)
+- 💬 Ask me about anything JavaScript, Typescript, Angular, Java, and Android
+- 👯 chachaup - coming soon...
 - 📫 How to reach me: [Twitter](https://twitter.com/chachaups)
 - ⚡ Fun fact: Human beings were created by water to carry it upstream!
 
